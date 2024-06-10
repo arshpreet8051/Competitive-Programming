@@ -14,7 +14,7 @@ public:
             - mark start eith +1
             - mark end with -1
             - compute prefix sum
-            - arr value mod 3  - '1' Green - '2' Yellow - '3' Red
+            - arr value mod 3  - '0' Red - '1' Yellow - '2' Green
             */
 
         // intialize with all reds
